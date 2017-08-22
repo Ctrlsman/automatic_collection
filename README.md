@@ -1,0 +1,5 @@
+# automatic_collection
+Linux system asset automatic acquisition system
+一个简单的可插拔的基于linux系统的服务器配置信息采集插件，可以直接以app的形式嵌于django项目中
+灵感来源于django的配置文件
+目前功能比较简单，后期再予以完善
